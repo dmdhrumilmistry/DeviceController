@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map for
+# Device Controller
+#######################################
+
+#######################################
+# Datatypes/Classes (KEYWORD1)
+#######################################
+
+DeviceController  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+set_values    KEYWORD2
+set_pin_state   KEYWORD2
+
+
+######################################
+# Constants (LITERAL1)
+#######################################
