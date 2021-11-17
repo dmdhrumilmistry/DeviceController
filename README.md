@@ -1,5 +1,5 @@
 # Device Controller
-Control the Devices connected to the board using [Device Controller Web Interface](https://github.com/dmdhrumilmistry/DeviceControllerWebInterface).
+Control the Devices connected to the board using [Device Controller Web Interface](https://github.com/dmdhrumilmistry/DeviceControllerWebInterface) and [Device Controller Telegram Bot](https://github.com/dmdhrumilmistry/DeviceControllerTelegramBot)
 
 # Usage
 
@@ -9,8 +9,11 @@ Control the Devices connected to the board using [Device Controller Web Interfac
 
 - Upload Sketch on the board
 
-- Install [Device Controller Web Interface](https://github.com/dmdhrumilmistry/DeviceControllerWebInterface).
+- Install [Device Controller Web Interface](https://github.com/dmdhrumilmistry/DeviceControllerWebInterface) or [Device Controller Telegram Bot](https://github.com/dmdhrumilmistry/DeviceControllerTelegramBot)
 
-- Start Website
+- Start Website or Telegram Bot
 
-- Control Connected devices from the website.
+- Control Connected devices from the website or using the bot.
+
+# License
+[MIT License](https://github.com/dmdhrumilmistry/DeviceController/blob/main/LICENSE)
